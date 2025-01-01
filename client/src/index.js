@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 console.log("from vs make conflict");
+console.log("lea you are the best!!")
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
